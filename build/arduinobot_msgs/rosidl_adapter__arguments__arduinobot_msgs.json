@@ -1,0 +1,10 @@
+{
+  "package_name": "arduinobot_msgs",
+  "non_idl_tuples": [
+    "/home/datvu/robot_arm506_ws/src/arduinobot_msgs:srv/AddTwoInts.srv",
+    "/home/datvu/robot_arm506_ws/src/arduinobot_msgs:srv/EulerToQuaternion.srv",
+    "/home/datvu/robot_arm506_ws/src/arduinobot_msgs:srv/QuaternionToEuler.srv",
+    "/home/datvu/robot_arm506_ws/src/arduinobot_msgs:action/Fibonacci.action",
+    "/home/datvu/robot_arm506_ws/src/arduinobot_msgs:action/ArduinobotTask.action"
+  ]
+}
